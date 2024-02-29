@@ -4,14 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nutrition Analysis</title>
+    <script src="https://developer.edamam.com/attribution/badge.js"></script>
+    <link rel="stylesheet" type="text/css" href="foodtracker.css">
 </head>
 <body>
     <h1>Nutrition Analysis</h1>
     <label for="foodInput">Lebensmittel eingeben:</label><br>
     <input type="text" id="foodInput" name="foodInput"><br><br>
-    <button onclick="getNutrition()">Analyze</button><br><br>
+    <button id="analyzeButton">Analyze</button><br><br>
     <div id="nutritionInfo"></div>
 
     <script src="foodtracker.js"></script>
+
+    <div id="edamam-badge" data-color="white"></div>
+
 </body>
 </html>
+
+
