@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+
+@font-face {
+    font-family: 'Futura'; /* Der Name, den du deinem Font geben möchtest */
+    src: url('Futura Condensed Extra Bold.otf') format('opentype');
+}
+
+header {
+    background-color: rgba(132, 132, 132, 0.65);
+    padding: 1% 2%;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.logo img {
+    width: 30%;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: center;
+    flex: 1; 
+}
+
+.nav-links a {
+    margin: 0 2%;
+    color: white;
+    text-decoration: none;
+    font-size: 200%;
+    font-family: Futura;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+}
+
+.search-box input {
+    padding: 1%;
+    border: none;
+    border-radius: 3px;
+    margin-right: 1%;
+}
+
+.search-icon-container {
+    position: relative;
+}
+
+.search-icon {
+    width: 20000%;
+    opacity: 0.36;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-right: 1%; /* Abstand zum Texteingabefeld */
+}
+
+.user-icons {
+    display: flex;
+    align-items: center;
+}
+
+.user-icons img {
+    margin-left: 2%;
+    width: 5%;
+}
