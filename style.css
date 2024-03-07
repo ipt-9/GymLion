@@ -1,75 +1,75 @@
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: black;
-}
-
 @font-face {
-    font-family: 'Futura'; /* Der Name, den du deinem Font geben möchtest */
+    font-family: 'Futura';
     src: url('Futura Condensed Extra Bold.otf') format('opentype');
 }
 
-header {
-    background-color: rgba(132, 132, 132, 0.65);
-    padding: 1% 2%;
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
 }
 
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    color: white;
-}
-
-.logo img {
-    width: 30%;
+nav {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
 }
 
 .nav-links {
-    display: flex;
-    justify-content: center;
-    flex: 1; 
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .nav-links a {
-    margin: 0 2%;
-    color: white;
-    text-decoration: none;
-    font-size: 200%;
-    font-family: Futura;
+  text-decoration: none;
+  color: white;
+  font-size: 200%;
+  font-family: futura;
 }
 
-.search-box {
-    display: flex;
-    align-items: center;
+.nav-links a:hover {
+  color: gray;
 }
 
-.search-box input {
-    padding: 1%;
-    border: none;
-    border-radius: 3px;
-    margin-right: 1%;
+input[type="text"] {
+  padding: 2%;
+  width: 90%;
+  padding-left: 15%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  font-family: 'OCR A', sans-serif;
 }
 
-.search-icon-container {
-    position: relative;
+.search-bar {
+  margin-left: auto;
+  position: relative;
+  margin-right: 2%;
 }
 
-.search-icon {
-    width: 20000%;
-    opacity: 0.36;
+.search {
     position: absolute;
     top: 50%;
-    transform: translateY(-50%);
-    margin-right: 1%; /* Abstand zum Texteingabefeld */
+    right: 87%;
+    transform: translate(0, -50%);
+    z-index: 1;
+    width: 10%;
+    opacity: 50%;
 }
 
-.user-icons {
-    display: flex;
-    align-items: center;
+.account, .cart {
+  height: 50px;
+  margin-left: 3%;
+  margin-right: 1%;
 }
 
-.user-icons img {
-    margin-left: 2%;
-    width: 5%;
+.logo {
+  height: 50px;
 }
