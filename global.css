@@ -11,14 +11,12 @@ body {
 }
 
 :root {
-    /* fonts */
     --font-futura: Futura;
     --font-ocr-a: "OCR A";
     --font-century-gothic: "Century Gothic";
     --font-bahnschrift: Bahnschrift;
     --font-lato: Lato;
 
-    /* font sizes */
     --font-size-26xl: 45px;
     --font-size-11xl: 30px;
     --font-size-21xl: 40px;
@@ -27,7 +25,6 @@ body {
     --font-size-3xs: 10px;
     --font-size-mini: 15px;
 
-    /* Colors */
     --color-black: #000;
     --color-white: #fff;
     --color-gray-100: #848484;
@@ -35,6 +32,5 @@ body {
     --color-dimgray-100: #707070;
     --color-lightgray: #d8d4d4;
 
-    /* Border radiuses */
     --br-3xl: 22px;
 }
