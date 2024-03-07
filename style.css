@@ -9,14 +9,14 @@ site-title {
 }
 h1{
    font-family: var(--font-futura);
-   background-color: var(--color-dimgray-100);
+   background-color: black ;
    margin: 5% 0 0 0;
    font-size: 350%;
    padding-top: 1%;
 }
 h4 {
     font-family: var(--font-futura);
-    background-color: var(--color-dimgray-100);
+    background-color: black;
     margin: 0 0 0 0;
     font-size: 125%;
     padding-bottom: 1.5%;
@@ -53,24 +53,37 @@ h3 {
 body {
     background-color: black;
 }
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 200%;
+}
 .grid-container-team1 {
     display: grid;
     grid-template-columns: 30% 30% 30%;
     gap: 5%;
-    color: white;
-    margin-bottom: 5%; 
+    color: black;
+    margin: 0 6% 4% 6%; 
 }
 .grid-container-team1 > div {
     text-align: center;
 }
 .grid-container-team2 {
     display: grid;
-    grid-template-columns: 30% 30%;
+    grid-template-columns: 40% 40%;
     gap: 5%;
-    color: white;
+    color: black;
+    margin: 0 10% 0 20%;
 }
 .grid-container-team2 > div {
     text-align: center;
 }
+.info {
+    background-color: white;
+}
 Name {
+    font-size: 150%;
+}
+Function {
+    font-size: 100%;
 }
