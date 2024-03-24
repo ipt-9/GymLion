@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.popup-overlay {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    inset: 0;
+}
+
+:root {
+    --font-futura: Futura;
+    --font-ocr-a: "OCR A";
+    --font-century-gothic: "Century Gothic";
+    --font-bahnschrift: Bahnschrift;
+    --font-lato: Lato;
+
+    --font-size-26xl: 45px;
+    --font-size-11xl: 30px;
+    --font-size-21xl: 40px;
+    --font-size-6xl: 25px;
+    --font-size-xl: 20px;
+    --font-size-3xs: 10px;
+    --font-size-mini: 15px;
+
+    --color-black: #000;
+    --color-white: #fff;
+    --color-gray-100: #848484;
+    --color-gray-200: rgba(255, 255, 255, 0.55);
+    --color-dimgray-100: #707070;
+    --color-lightgray: #d8d4d4;
+
+    --br-3xl: 22px;
+}
