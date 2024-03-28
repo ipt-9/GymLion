@@ -1,4 +1,5 @@
 body {
+
   margin: 0;
   line-height: normal;
 }
@@ -43,4 +44,8 @@ body {
   --br-xl: 20px;
   --br-20xl: 39px;
   --br-47xl: 66px;
+  --br-3xl: 22px;
 }
+
+
+
