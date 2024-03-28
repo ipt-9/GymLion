@@ -1,0 +1,548 @@
+.div {
+  position: absolute;
+  top: 162px;
+  left: 1113px;
+  font-size: 70px;
+  font-weight: 800;
+  font-family: var(--font-futura);
+  color: var(--color-black);
+}
+.path-15-icon {
+  position: absolute;
+  right: 126px;
+  bottom: -1.27px;
+  width: 786px;
+  height: 874.54px;
+}
+.checkout2 {
+  margin: 0;
+}
+.checkout1 {
+  position: absolute;
+  top: 99px;
+  left: 210px;
+  font-size: 65px;
+  font-weight: 800;
+  font-family: var(--font-futura);
+}
+.checkout-child {
+  top: 303.73px;
+  right: 197px;
+  border-radius: var(--br-8xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  width: 649px;
+  height: 82px;
+}
+.checkout-child,
+.checkout-inner,
+.checkout-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.checkout-item {
+  bottom: 25px;
+  left: 27px;
+  border-radius: var(--br-8xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  width: 341px;
+  height: 82px;
+}
+.checkout-inner {
+  top: 314.23px;
+  left: 1157.5px;
+  border-right: 1px solid var(--color-black);
+  width: 2px;
+  height: 55px;
+}
+.icons8-neuer-beitrag-50 {
+  position: absolute;
+  top: 325.73px;
+  left: 1103px;
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+}
+.your-email {
+  position: absolute;
+  top: 260.73px;
+  left: 1097.5px;
+  color: var(--color-black);
+}
+.coupon-code {
+  position: absolute;
+  bottom: 111px;
+  left: 36px;
+}
+.products {
+  position: absolute;
+  top: 295px;
+  left: 31px;
+  text-transform: uppercase;
+}
+.line-icon {
+  position: absolute;
+  top: 331.5px;
+  left: -3.5px;
+  width: 738.02px;
+  height: 10px;
+}
+.amount,
+.price {
+  position: absolute;
+  top: 295px;
+  left: 644px;
+  text-transform: uppercase;
+}
+.amount {
+  left: 497px;
+}
+.checkout-child1,
+.line-div {
+  position: absolute;
+  top: 582.5px;
+  left: -1.5px;
+  width: 741px;
+  height: 4px;
+}
+.line-div {
+  top: 777px;
+  left: -3px;
+  border-top: 3px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 744px;
+  height: 6px;
+}
+.chf-10990,
+.total-incl-vat {
+  position: absolute;
+  top: 826px;
+  left: 57px;
+  font-size: var(--font-size-11xl);
+}
+.chf-10990 {
+  top: 820px;
+  left: 523px;
+  font-size: var(--font-size-21xl);
+}
+.checkout-child2 {
+  position: absolute;
+  bottom: 167px;
+  left: -3px;
+  border-top: 3px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 744px;
+  height: 6px;
+}
+.gymlion20 {
+  position: absolute;
+  bottom: 48px;
+  left: 45px;
+  font-size: var(--font-size-11xl);
+  color: #717171;
+}
+.checkout-child3 {
+  position: absolute;
+  bottom: 45px;
+  left: 208px;
+  border-right: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 2px;
+  height: 43px;
+}
+.component-181-1 {
+  position: absolute;
+  bottom: 82.27px;
+  left: 1260px;
+  width: 234px;
+  height: 48px;
+  cursor: pointer;
+}
+.buy {
+  position: absolute;
+  bottom: 90.27px;
+  left: 1353px;
+  color: var(--color-black);
+}
+.pngwingcom-8-icon {
+  position: absolute;
+  top: 852.73px;
+  left: 1464px;
+  width: 73px;
+  height: 29px;
+  object-fit: cover;
+}
+.pngwingcom-4-icon,
+.pngwingcom-6-icon,
+.pngwingcom-7-icon {
+  position: absolute;
+  top: 824.73px;
+  left: 1124px;
+  width: 93px;
+  height: 74px;
+  object-fit: cover;
+}
+.pngwingcom-4-icon,
+.pngwingcom-6-icon {
+  left: 1217px;
+  width: 74px;
+}
+.pngwingcom-4-icon {
+  left: 1375px;
+  width: 79px;
+  height: 79px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 500.73px;
+  left: 1084px;
+  border-radius: var(--br-8xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 293px;
+  height: 82px;
+}
+.pngwingcom-5-icon {
+  position: absolute;
+  top: 845.73px;
+  left: 1301px;
+  width: 64px;
+  height: 38px;
+  object-fit: cover;
+}
+.checkout-child4 {
+  position: absolute;
+  top: 428.73px;
+  right: 147.99px;
+  width: 768.01px;
+  height: 9px;
+}
+.component-232-1,
+.component-237-1 {
+  position: absolute;
+  bottom: 153.27px;
+  width: 26px;
+  height: 26px;
+}
+.component-232-1 {
+  left: 1158px;
+}
+.component-237-1 {
+  right: 303px;
+}
+.component-233-1,
+.component-234-1,
+.component-235-1,
+.component-236-1 {
+  position: absolute;
+  bottom: 153.27px;
+  left: 1488px;
+  width: 26px;
+  height: 26px;
+}
+.component-233-1,
+.component-234-1,
+.component-235-1 {
+  left: 1400px;
+}
+.component-233-1,
+.component-234-1 {
+  left: 1322px;
+}
+.component-233-1 {
+  left: 1244px;
+}
+.billing-details {
+  position: absolute;
+  top: 463.5px;
+  left: 1097.5px;
+  text-transform: uppercase;
+  color: var(--color-black);
+}
+.checkout-child5 {
+  position: absolute;
+  top: 501.73px;
+  right: 201px;
+  border-radius: var(--br-8xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 293px;
+  height: 82px;
+}
+.checkout-child6 {
+  top: 612.73px;
+  right: 197px;
+  width: 639px;
+}
+.checkout-child6,
+.checkout-child7,
+.checkout-child8 {
+  position: absolute;
+  border-radius: var(--br-8xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 82px;
+}
+.checkout-child7 {
+  top: 724.73px;
+  left: 1084px;
+  width: 206px;
+}
+.checkout-child8 {
+  top: 723.73px;
+  right: 197px;
+  width: 376px;
+}
+.name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.58;
+}
+.component-143-1,
+.component-144-1,
+.component-145-1,
+.component-146-1,
+.component-147-1 {
+  position: absolute;
+  top: 523.73px;
+  left: 1120px;
+  width: 90px;
+  height: 37px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-200);
+}
+.component-144-1,
+.component-145-1,
+.component-146-1,
+.component-147-1 {
+  top: 524.73px;
+  left: 1465px;
+  width: 128px;
+}
+.component-145-1,
+.component-146-1,
+.component-147-1 {
+  top: 635.73px;
+  left: 1120px;
+  width: 116px;
+}
+.component-146-1,
+.component-147-1 {
+  top: 747.73px;
+  left: 1116px;
+  width: 130px;
+}
+.component-147-1 {
+  left: 1384px;
+  width: 56px;
+}
+.image-removebg-preview-14-icon {
+  position: absolute;
+  top: 828px;
+  right: 247px;
+  width: 140px;
+  height: 79px;
+  object-fit: cover;
+}
+.help,
+.pngwingcom-2-icon {
+  position: absolute;
+  bottom: 31px;
+  cursor: pointer;
+}
+.help {
+  right: 200px;
+  color: var(--color-black);
+  text-align: left;
+}
+.pngwingcom-2-icon {
+  right: 164px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.image-removebg-preview-6-icon {
+  position: absolute;
+  top: 26px;
+  right: 273px;
+  width: 510px;
+  height: 156px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.component-139-6,
+.email {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.component-139-6 {
+  top: 327px;
+  left: 1175px;
+  width: 82px;
+  height: 37px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-200);
+}
+.b,
+.chf-7395 {
+  position: absolute;
+  font-family: var(--font-century-gothic);
+  text-align: center;
+}
+.b {
+  top: calc(50% - 27px);
+  left: calc(50% + 168.5px);
+  font-size: var(--font-size-21xl);
+}
+.chf-7395 {
+  top: calc(50% - 14px);
+  right: -1px;
+}
+.microsoftteams-image-8-remov-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 144px;
+  object-fit: cover;
+}
+.on-gold-standard {
+  top: calc(50% - 24px);
+  font-size: var(--font-size-lg);
+}
+.flavour,
+.on-gold-standard,
+.size {
+  position: absolute;
+  left: calc(50% - 224.5px);
+}
+.flavour {
+  top: calc(50% + 1px);
+}
+.size {
+  bottom: 18px;
+}
+.double-rich-choco,
+.kg {
+  position: absolute;
+  font-size: var(--font-size-6xl);
+  text-transform: uppercase;
+  font-weight: 300;
+}
+.kg {
+  bottom: 16px;
+  left: calc(50% - 172.5px);
+}
+.double-rich-choco {
+  top: calc(50% - 3px);
+  left: calc(50% - 137.5px);
+}
+.parent {
+  position: absolute;
+  top: 394px;
+  left: 16px;
+  width: 709px;
+  height: 144px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-futura);
+}
+.checkout-child10,
+.checkout-child9 {
+  position: absolute;
+  top: 333px;
+  left: 478px;
+  border-right: 3px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 6px;
+  height: 447px;
+}
+.checkout-child10 {
+  top: 336px;
+  left: 616px;
+}
+.b1,
+.chf-3599 {
+  position: absolute;
+  font-family: var(--font-century-gothic);
+  text-align: center;
+}
+.b1 {
+  top: 0;
+  left: calc(50% + 103.5px);
+  font-size: var(--font-size-21xl);
+}
+.chf-3599 {
+  top: calc(50% - 28.5px);
+  right: -1px;
+}
+.nike-dri-fit-active {
+  top: 3px;
+  font-size: var(--font-size-lg);
+}
+.color,
+.nike-dri-fit-active,
+.size1 {
+  position: absolute;
+  left: 0;
+}
+.color {
+  top: calc(50% - 13.5px);
+}
+.size1 {
+  bottom: 2px;
+}
+.xl {
+  bottom: 0;
+  left: 52px;
+  font-size: var(--font-size-6xl);
+  text-transform: uppercase;
+  font-weight: 300;
+}
+.blue,
+.group,
+.xl {
+  position: absolute;
+}
+.blue {
+  top: calc(50% - 17.5px);
+  left: 67px;
+  font-size: var(--font-size-6xl);
+  text-transform: uppercase;
+  font-weight: 300;
+}
+.group {
+  top: 658px;
+  left: 146px;
+  width: 579px;
+  height: 83px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-futura);
+}
+.t-shirt-jersey-nike-sleeve-png-icon {
+  position: absolute;
+  top: 620px;
+  left: 12px;
+  width: 157px;
+  height: 141px;
+  object-fit: cover;
+}
+.checkout {
+  position: relative;
+  background-color: #2a2a2a;
+  width: 100%;
+  height: 1076px;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-century-gothic);
+}
