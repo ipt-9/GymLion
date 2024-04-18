@@ -1,0 +1,1434 @@
+.div {
+    position: absolute;
+    top: 162px;
+    left: 1113px;
+    font-size: 70px;
+    font-weight: 800;
+}
+
+.pfad-18-icon,
+.rechteck-47 {
+    position: absolute;
+    width: 100%;
+    right: 0;
+    left: 0;
+}
+
+.pfad-18-icon {
+    height: calc(100% - 75px);
+    top: 0;
+    bottom: 75px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.rechteck-47 {
+    bottom: 0;
+    background-color: var(--color-black);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    height: 75px;
+}
+
+.gymlion-unleash {
+    position: absolute;
+    bottom: 25px;
+    left: 56px;
+    color: var(--color-white);
+}
+
+.socials {
+    position: absolute;
+    top: calc(50% - 97px);
+    left: 88px;
+    font-size: var(--font-size-26xl);
+    line-height: 30px;
+}
+
+.icons8-facebook-50,
+.icons8-instagram-50,
+.icons8-youtube-50 {
+    position: absolute;
+    top: calc(50% - 26px);
+    left: 236px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.icons8-facebook-50,
+.icons8-instagram-50 {
+    left: 56px;
+}
+
+.icons8-facebook-50 {
+    left: 176px;
+}
+
+.made-in-switzerland {
+    position: absolute;
+    right: 140px;
+    bottom: 25px;
+    color: var(--color-white);
+}
+
+.kisspng-flag-of-switzerland-na-icon {
+    position: absolute;
+    right: 48px;
+    bottom: 13px;
+    width: 75px;
+    height: 48px;
+    object-fit: cover;
+}
+
+.about-us {
+    position: absolute;
+    top: calc(50% - 100px);
+    right: 222px;
+}
+
+.pngwingcom-2-icon {
+    position: absolute;
+    top: calc(50% - 54px);
+    right: 223px;
+    width: 33px;
+    height: 33px;
+    object-fit: cover;
+}
+
+.lion-logo-template-on-transpar-icon {
+    position: absolute;
+    top: 42px;
+    right: 180px;
+    width: 38px;
+    height: 38px;
+    object-fit: cover;
+}
+
+.icons8-twitterx-50 {
+    position: absolute;
+    top: calc(50% - 26px);
+    left: 116px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.help {
+    position: absolute;
+    top: calc(50% - 46px);
+    right: 274px;
+}
+
+.gruppe-3,
+.pfad-4-icon {
+    position: absolute;
+    left: 0;
+}
+
+.gruppe-3 {
+    bottom: -15px;
+    width: 1920px;
+    height: 302px;
+    text-align: left;
+    font-size: var(--font-size-6xl);
+    font-family: var(--font-bahnschrift);
+}
+
+.pfad-4-icon {
+    width: 100%;
+    top: 0;
+    right: 0;
+    max-width: 100%;
+    overflow: hidden;
+    height: 119px;
+    opacity: 0.66;
+}
+
+.shop {
+    position: absolute;
+    top: 26px;
+    left: calc(50% - 164px);
+    font-weight: 800;
+}
+
+.rechteck-11 {
+    position: absolute;
+    top: 14px;
+    right: 261px;
+    background-color: var(--color-white);
+    border: 3px solid var(--color-black);
+    box-sizing: border-box;
+    width: 369px;
+    height: 87px;
+}
+
+.pngtreesearch-icon-4699282 {
+    position: absolute;
+    top: 20px;
+    left: calc(50% + 341px);
+    width: 79px;
+    height: 79px;
+    object-fit: cover;
+}
+
+.search {
+    position: absolute;
+    top: 44px;
+    left: calc(50% + 420px);
+    font-size: var(--font-size-11xl);
+    line-height: 20px;
+    font-family: var(--font-ocr-a);
+    color: var(--color-black);
+    opacity: 0.36;
+}
+
+.image-removebg-preview-6-icon {
+    position: absolute;
+    top: 5px;
+    left: 127px;
+    width: 345px;
+    height: 106px;
+    object-fit: cover;
+}
+
+.account-icon-25499,
+.cart-icon {
+    position: absolute;
+    top: 16px;
+    right: 142px;
+    width: 87px;
+    height: 87px;
+    object-fit: cover;
+}
+
+.cart-icon {
+    top: 0;
+    right: 0;
+    width: 110px;
+    height: 110px;
+}
+
+.rechteck-123 {
+    position: absolute;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-xl);
+    background-color: var(--color-gray-100);
+    height: 567px;
+    opacity: 0;
+}
+
+.prozent-whey-white-chocolate-2-icon {
+    position: absolute;
+    top: calc(50% - 246.5px);
+    left: 33px;
+    width: 97px;
+    height: 97px;
+    object-fit: cover;
+    opacity: 0;
+}
+
+.rechteck-125,
+.rechteck-126,
+.rechteck-127 {
+    position: absolute;
+    width: calc(100% - 71px);
+    top: calc(50% - 244.5px);
+    right: 35px;
+    left: 36px;
+    border: 5px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    height: 94px;
+    opacity: 0;
+}
+
+.rechteck-126,
+.rechteck-127 {
+    top: calc(50% - 114.5px);
+}
+
+.rechteck-127 {
+    top: calc(50% + 15.5px);
+}
+
+.whey-protein {
+    position: absolute;
+    top: calc(50% - 223.5px);
+    left: calc(50% - 71.5px);
+    font-size: var(--font-size-xl);
+    font-family: var(--font-century-gothic);
+    opacity: 0;
+}
+
+.vanilla-taste-2000g,
+.vegan-capsules,
+.veggie-capsules {
+    position: absolute;
+    top: calc(50% - 195.5px);
+    left: calc(50% - 68.5px);
+    opacity: 0;
+}
+
+.vegan-capsules,
+.veggie-capsules {
+    top: calc(50% - 65.5px);
+}
+
+.vegan-capsules {
+    top: calc(50% + 64.5px);
+    left: calc(50% - 66.5px);
+}
+
+.div1,
+.div2,
+.div3 {
+    position: absolute;
+    top: calc(50% - 195.5px);
+    right: 50px;
+    opacity: 0;
+}
+
+.div2,
+.div3 {
+    top: calc(50% - 65.5px);
+}
+
+.div3 {
+    top: calc(50% + 64.5px);
+}
+
+.microsoftteams-image-10-3a0052-icon {
+    position: absolute;
+    top: calc(50% - 107.5px);
+    left: 42px;
+    width: 79px;
+    height: 79px;
+    object-fit: cover;
+    opacity: 0;
+}
+
+.biohm-total-probiotic {
+    margin: 0;
+}
+
+.blank-line {
+    margin: 0;
+    font-weight: 800;
+    font-family: var(--font-futura);
+}
+
+.biohm-total-probiotic-container,
+.hum-gut-instinct-container {
+    position: absolute;
+    top: calc(50% - 95.5px);
+    left: calc(50% - 75.5px);
+    font-size: var(--font-size-xl);
+    opacity: 0;
+    font-family: var(--font-century-gothic);
+}
+
+.hum-gut-instinct-container {
+    top: calc(50% + 31.5px);
+    left: calc(50% - 70.5px);
+}
+
+.d1810-3708-11ee-8f05-fd0087e6a-icon {
+    position: absolute;
+    top: calc(50% + 31.5px);
+    left: 50px;
+    width: 63px;
+    height: 63px;
+    object-fit: cover;
+    opacity: 0;
+}
+
+.checkout,
+.rechteck-128 {
+    position: absolute;
+    opacity: 0;
+}
+
+.rechteck-128 {
+    width: calc(100% - 71px);
+    right: 32px;
+    bottom: 44px;
+    left: 39px;
+    background-color: var(--color-red);
+    height: 94px;
+}
+
+.checkout {
+    bottom: 69px;
+    left: calc(50% - 83.5px);
+    font-size: 35px;
+    font-family: var(--font-century-gothic);
+    color: var(--color-black);
+}
+
+.gruppe-40 {
+    position: absolute;
+    width: calc(100% - 7px);
+    right: 7px;
+    bottom: 0;
+    left: 0;
+    height: 567px;
+}
+
+.komponente-11-16 {
+    position: absolute;
+    height: calc(100% - 6px);
+    top: 6px;
+    right: 24px;
+    bottom: 0;
+    width: 410px;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-gadugi);
+}
+
+.komponente-12-4 {
+    position: absolute;
+    top: 25px;
+    left: calc(50% - 164px);
+    width: 140px;
+    height: 75px;
+}
+
+.tracker {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 800;
+}
+
+.komponente-11-17 {
+    position: absolute;
+    top: 38px;
+    left: calc(50% + 33px);
+    width: 178px;
+    height: 56px;
+    font-size: var(--font-size-26xl);
+}
+
+.navbar {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 1920px;
+    height: 724px;
+    font-size: var(--font-size-41xl);
+    color: var(--color-white);
+}
+
+.gruppe-maskieren-17,
+.rechteck-95 {
+    position: absolute;
+    top: 904px;
+    left: 513px;
+    width: 317px;
+    height: 293px;
+}
+
+.rechteck-95 {
+    top: 0;
+    left: 0;
+    background-color: var(--color-black);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 1920px;
+    height: 1786px;
+}
+
+.your-gymlion-account,
+.your-orders {
+    position: absolute;
+    top: 237px;
+    left: 735px;
+    font-size: var(--font-size-41xl);
+    font-weight: 300;
+    color: var(--color-white);
+}
+
+.your-orders {
+    top: 463px;
+    left: 513px;
+    font-size: var(--font-size-26xl);
+}
+
+.rechteck-206 {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-radius: var(--br-7xl);
+    background-color: var(--color-gray-100);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    height: 381px;
+}
+
+.gruppe-84-icon,
+.kamera-icon {
+    position: absolute;
+    top: 18px;
+    left: calc(50% - 75px);
+    width: 150px;
+    height: 148px;
+}
+
+.kamera-icon {
+    top: 66px;
+    left: calc(50% - 26px);
+    width: 52px;
+    height: 52px;
+    object-fit: cover;
+}
+
+.lion-user {
+    position: absolute;
+    top: 167px;
+    left: calc(50% - 41px);
+    font-size: var(--font-size-xl);
+    letter-spacing: -0.4px;
+}
+
+.lion-usergymlioncom {
+    position: absolute;
+    top: 197px;
+    left: calc(50% - 72px);
+    letter-spacing: -0.3px;
+}
+
+.komponente-159-1 {
+    position: absolute;
+    width: calc(100% - 148px);
+    top: calc(50% - 303.5px);
+    right: 74px;
+    left: 74px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 48px;
+    cursor: pointer;
+}
+
+.log-out {
+    position: absolute;
+    top: calc(50% - 295px);
+    left: calc(50% - 44px);
+    font-size: var(--font-size-6xl);
+}
+
+.rechteck-207 {
+    top: calc(50% - 374px);
+    left: 20px;
+    border-radius: var(--br-10xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    width: 156px;
+    height: 49px;
+    cursor: pointer;
+}
+
+.linie-53,
+.rechteck-207,
+.rechteck-208 {
+    position: absolute;
+    box-sizing: border-box;
+}
+
+.rechteck-208 {
+    top: calc(50% - 374px);
+    right: 21px;
+    border-radius: var(--br-10xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    width: 155px;
+    height: 49px;
+}
+
+.linie-53 {
+    top: calc(50% - 376px);
+    left: calc(50% - 1px);
+    border-right: 1px solid var(--color-black);
+    width: 2px;
+    height: 51px;
+}
+
+.fitness-plan,
+.food-tracker {
+    position: absolute;
+    top: calc(50% - 359px);
+    cursor: pointer;
+}
+
+.fitness-plan {
+    left: 57px;
+}
+
+.food-tracker {
+    right: 47px;
+}
+
+.rechteck-213 {
+    position: absolute;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-7xl);
+    background-color: var(--color-gray-100);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    height: 777px;
+}
+
+.gruppe-75 {
+    position: absolute;
+    top: 207px;
+    left: 28px;
+    width: 382px;
+    height: 1202px;
+    font-size: var(--font-size-mini);
+    font-family: var(--font-century-gothic);
+}
+
+.order-74692341-of {
+    position: absolute;
+    top: 24px;
+    left: 16px;
+    line-height: 20px;
+}
+
+.payment-status {
+    left: 16px;
+}
+
+.chf,
+.paid,
+.payment-status,
+.total-amount {
+    position: absolute;
+    top: calc(50% - 75px);
+    vertical-align: sub;
+    line-height: 20px;
+}
+
+.paid {
+    left: 134px;
+    color: var(--color-mediumspringgreen);
+}
+
+.chf,
+.total-amount {
+    left: calc(50% - 299px);
+}
+
+.chf {
+    left: calc(50% - 198px);
+}
+
+.linie-54,
+.linie-55 {
+    position: absolute;
+    width: calc(100% - 64px);
+    right: 49px;
+    left: 15px;
+    border-top: 1px solid var(--color-black);
+    box-sizing: border-box;
+    height: 2px;
+}
+
+.linie-54 {
+    bottom: 46px;
+}
+
+.linie-55 {
+    top: calc(50% - 25px);
+}
+
+.on-gold-standard-pre-advanced-icon {
+    position: absolute;
+    top: calc(50% - 28px);
+    left: 8px;
+    width: 103px;
+    height: 103px;
+    object-fit: cover;
+}
+
+.x {
+    position: absolute;
+    top: calc(50% + 5px);
+    left: 128px;
+    line-height: 20px;
+    white-space: pre-wrap;
+}
+
+.on {
+    text-transform: uppercase;
+}
+
+.delivered-09122023,
+.on-pre-advanced-container {
+    position: absolute;
+    top: calc(50% + 5px);
+    left: calc(50% - 299px);
+    line-height: 20px;
+}
+
+.delivered-09122023 {
+    top: calc(50% + 12px);
+    left: calc(50% + 11px);
+    font-size: var(--font-size-xl);
+    color: var(--color-mediumspringgreen);
+}
+
+.gruppe-73 {
+    position: absolute;
+    top: 536px;
+    left: 513px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    width: 1026px;
+    height: 244px;
+    font-family: var(--font-calibri);
+}
+
+.on-pro-gainer-container {
+    position: absolute;
+    top: calc(50% + 5px);
+    left: calc(50% - 294px);
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+.cancelled {
+    position: absolute;
+    top: calc(50% + 12px);
+    left: calc(50% + 49px);
+    font-size: var(--font-size-xl);
+    line-height: 20px;
+}
+
+.gruppe-74,
+.rechteck-212 {
+    position: absolute;
+    top: 799px;
+    left: 513px;
+    width: 1026px;
+    height: 244px;
+}
+
+.gruppe-74 {
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    font-family: var(--font-calibri);
+}
+
+.rechteck-212 {
+    border-radius: 6px;
+    background-color: var(--color-black);
+    opacity: 0.4;
+}
+
+.on-c101274-image-01-icon {
+    position: absolute;
+    top: 888px;
+    left: 513px;
+    width: 121px;
+    height: 121px;
+    object-fit: cover;
+}
+
+.microsoftteams-image-8-remov-icon,
+.rebuildcreatine-450x650-icon {
+    position: absolute;
+    top: 650px;
+    left: 113.5px;
+    width: 209px;
+    height: 209px;
+    object-fit: cover;
+}
+
+.rebuildcreatine-450x650-icon {
+    top: 1145.5px;
+}
+
+.linie-43 {
+    position: absolute;
+    top: 876.5px;
+    left: 74.5px;
+    border-top: 2px solid var(--color-white);
+    box-sizing: border-box;
+    width: 285px;
+    height: 4px;
+}
+
+.off-top-products {
+    position: absolute;
+    top: 921px;
+    left: 54.5px;
+    letter-spacing: -0.6px;
+    font-weight: 900;
+    font-family: var(--font-lato);
+    color: var(--color-white);
+    opacity: 0.75;
+}
+
+.span1 {
+    color: #434040;
+}
+
+.christmas-season {
+    color: var(--color-red);
+}
+
+.great-offers-for-container {
+    position: absolute;
+    top: 945px;
+    left: 76.5px;
+    vertical-align: sub;
+    letter-spacing: -0.6px;
+    font-weight: 900;
+    font-family: var(--font-lato);
+    opacity: 0.75;
+    color: var(--color-white);
+}
+
+.rechteck-164 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 35px;
+    background-color: var(--color-black);
+    border: 5px solid rgba(0, 0, 0, 0.65);
+    box-sizing: border-box;
+}
+
+.komponente-34-2 {
+    position: absolute;
+    top: 1024.78px;
+    left: 106.88px;
+    width: 214.5px;
+    height: 73.3px;
+    cursor: pointer;
+}
+
+.buy-now {
+    position: absolute;
+    top: 1044px;
+    left: 142.25px;
+    font-weight: 900;
+    font-family: var(--font-lato);
+    color: var(--color-white);
+}
+
+.linie-56 {
+    position: absolute;
+    top: 1143.5px;
+    left: 74.5px;
+    border-top: 2px solid var(--color-white);
+    box-sizing: border-box;
+    width: 285px;
+    height: 4px;
+}
+
+.payment-status2 {
+    left: 16px;
+}
+
+.chf2,
+.paid2,
+.payment-status2,
+.total-amount2 {
+    position: absolute;
+    top: 47px;
+    vertical-align: sub;
+    line-height: 20px;
+}
+
+.paid2 {
+    left: 134px;
+    color: var(--color-mediumspringgreen);
+}
+
+.chf2,
+.total-amount2 {
+    left: calc(50% - 299px);
+}
+
+.chf2 {
+    left: calc(50% - 198px);
+}
+
+.linie-542,
+.linie-552 {
+    position: absolute;
+    width: calc(100% - 64px);
+    right: 49px;
+    left: 15px;
+    border-top: 1px solid var(--color-black);
+    box-sizing: border-box;
+    height: 2px;
+}
+
+.linie-542 {
+    bottom: 64px;
+}
+
+.linie-552 {
+    top: calc(50% - 76px);
+}
+
+.on-gold-standard-pre-advanced-icon1 {
+    position: absolute;
+    top: calc(50% - 79px);
+    left: 8px;
+    width: 103px;
+    height: 103px;
+    object-fit: cover;
+}
+
+.on-pre-advanced-container1,
+.x2 {
+    position: absolute;
+    top: calc(50% - 46px);
+    line-height: 20px;
+}
+
+.x2 {
+    left: 128px;
+    white-space: pre-wrap;
+}
+
+.on-pre-advanced-container1 {
+    left: calc(50% - 299px);
+}
+
+.on-gold-standard-pre-advanced-icon2 {
+    position: absolute;
+    top: calc(50% + 10px);
+    left: 8px;
+    width: 103px;
+    height: 103px;
+    object-fit: cover;
+}
+
+.x3 {
+    position: absolute;
+    top: calc(50% + 37px);
+    left: 128px;
+    line-height: 20px;
+    white-space: pre-wrap;
+}
+
+.delivered-30112023,
+.on-pre-advanced-container2 {
+    position: absolute;
+    top: calc(50% + 43px);
+    left: calc(50% - 299px);
+    line-height: 20px;
+}
+
+.delivered-30112023 {
+    top: calc(50% - 2px);
+    left: calc(50% + 29px);
+    font-size: var(--font-size-xl);
+    color: var(--color-mediumspringgreen);
+}
+
+.gruppe-76 {
+    position: absolute;
+    top: 1062px;
+    left: 513px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    width: 1026px;
+    height: 346px;
+    font-family: var(--font-calibri);
+}
+
+.about-us1,
+.pngwingcom-2-icon1 {
+    position: absolute;
+    top: calc(50% - 100px);
+    right: 222px;
+    cursor: pointer;
+}
+
+.pngwingcom-2-icon1 {
+    top: calc(50% - 54px);
+    right: 223px;
+    width: 33px;
+    height: 33px;
+    object-fit: cover;
+}
+
+.lion-logo-template-on-transpar-icon1 {
+    position: absolute;
+    top: 42px;
+    right: 180px;
+    width: 38px;
+    height: 38px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.help1 {
+    position: absolute;
+    top: calc(50% - 46px);
+    right: 274px;
+    cursor: pointer;
+}
+
+.gruppe-31 {
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 1920px;
+    height: 302px;
+    text-align: left;
+    font-size: var(--font-size-6xl);
+    font-family: var(--font-bahnschrift);
+}
+
+.lion-logo-template-on-transpar-icon2 {
+    position: absolute;
+    top: 194px;
+    right: -283px;
+    width: 637px;
+    height: 637px;
+    object-fit: cover;
+}
+
+.pfad-4-icon1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.65;
+}
+
+.shop2 {
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    font-weight: 800;
+    mix-blend-mode: lighten;
+}
+
+.komponente-10-191 {
+    position: absolute;
+    top: calc(50% - 33.5px);
+    left: calc(50% - 154px);
+    width: 114px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.pngtreesearch-icon-46992821 {
+    position: absolute;
+    height: calc(100% - 40px);
+    top: 20px;
+    bottom: 20px;
+    left: calc(50% + 342px);
+    max-height: 100%;
+    width: 79px;
+    object-fit: cover;
+}
+
+.search1 {
+    position: absolute;
+    top: calc(50% - 15.5px);
+    left: calc(50% + 422px);
+    font-size: var(--font-size-11xl);
+    line-height: 20px;
+    font-family: var(--font-ocr-a);
+    color: var(--color-black);
+    opacity: 0.36;
+}
+
+.komponente-11-343 {
+    position: absolute;
+    top: calc(50% - 30.5px);
+    left: calc(50% + 44px);
+    width: 178px;
+    height: 56px;
+    cursor: pointer;
+}
+
+.image-removebg-preview-6-icon1 {
+    height: calc(100% - 13px);
+    top: 5px;
+    bottom: 8px;
+    left: 127px;
+    width: 345px;
+    cursor: pointer;
+}
+
+.account-icon-254991,
+.image-removebg-preview-6-icon1,
+.shopping-cart-icon {
+    position: absolute;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.account-icon-254991 {
+    height: calc(100% - 32px);
+    top: 16px;
+    right: 142px;
+    bottom: 16px;
+    width: 87px;
+    cursor: pointer;
+}
+
+.shopping-cart-icon {
+    height: calc(100% - 38px);
+    top: 19px;
+    right: 55px;
+    bottom: 19px;
+    width: 81px;
+}
+
+.navbar1 {
+    position: absolute;
+    top: 75px;
+    left: 0;
+    width: 1926px;
+    height: 119px;
+    font-size: var(--font-size-26xl);
+    color: var(--color-white);
+}
+
+.about-us-1 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1774px;
+    text-align: center;
+    font-size: var(--font-size-11xl);
+    color: var(--color-black);
+    font-family: var(--font-futura);
+}
+
+.pfad-102-icon {
+    position: absolute;
+    height: calc(100% + 1px);
+    width: calc(100% + 1px);
+    top: -0.5px;
+    right: -0.5px;
+    bottom: -0.5px;
+    left: -0.5px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.66;
+}
+
+.rechteck-239 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--color-black);
+    border: 1px solid #6f6f6f;
+    box-sizing: border-box;
+}
+
+.komponente-153-1 {
+    position: absolute;
+    width: calc(100% - 68.6px);
+    right: 34.29px;
+    bottom: 15px;
+    left: 34.31px;
+    height: 65px;
+    cursor: pointer;
+}
+
+.proceed-to-bag {
+    position: absolute;
+    bottom: 29px;
+    left: calc(50% - 128px);
+    font-size: var(--font-size-11xl);
+    font-weight: 900;
+    font-family: var(--font-lato);
+    color: var(--color-white);
+}
+
+.items-in-your,
+.subtotal {
+    position: absolute;
+    font-size: var(--font-size-xl);
+}
+
+.items-in-your {
+    top: 17px;
+    left: 30px;
+    font-weight: 900;
+    font-family: var(--font-lato);
+}
+
+.subtotal {
+    top: calc(50% + 132px);
+    left: 34px;
+}
+
+.linie-60 {
+    position: absolute;
+    width: calc(100% + 2.5px);
+    top: 49.5px;
+    right: -0.5px;
+    left: -2px;
+    border-top: 2px solid var(--color-black);
+    box-sizing: border-box;
+    height: 4px;
+}
+
+.color {
+    top: calc(50% - 23.5px);
+    left: calc(50% + 10px);
+}
+
+.color,
+.quantity,
+.size {
+    position: absolute;
+}
+
+.quantity {
+    top: calc(50% + 16.5px);
+    right: 13px;
+}
+
+.size {
+    top: calc(50% - 3.5px);
+    left: calc(50% + 10px);
+}
+
+.blue {
+    top: calc(50% - 28.5px);
+    right: 7px;
+    font-size: var(--font-size-mini);
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.blue,
+.chf-3599,
+.xl {
+    position: absolute;
+}
+
+.xl {
+    top: calc(50% - 7.5px);
+    left: calc(50% + 36px);
+    font-size: var(--font-size-mini);
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.chf-3599 {
+    right: 8px;
+    bottom: 6px;
+}
+
+.nike-dri-fit-active {
+    position: absolute;
+    top: 0;
+    right: -1px;
+}
+
+.t-shirt-jersey-nike-sleeve-png-icon {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 99px;
+    height: 89px;
+    object-fit: cover;
+}
+
+.gruppe-108 {
+    position: absolute;
+    top: calc(50% - 18px);
+    left: 24px;
+    width: 146px;
+    height: 111px;
+}
+
+.linie-61,
+.linie-62 {
+    position: absolute;
+    width: calc(100% - 46px);
+    top: calc(50% - 40px);
+    right: 24px;
+    left: 22px;
+    border-top: 2px solid var(--color-black);
+    box-sizing: border-box;
+    height: 4px;
+}
+
+.linie-62 {
+    width: calc(100% + 5px);
+    top: calc(50% + 114px);
+    right: 0;
+    left: -5px;
+}
+
+.chf-10990 {
+    position: absolute;
+    top: calc(50% + 132px);
+    right: 33px;
+    font-size: var(--font-size-xl);
+}
+
+.microsoftteams-image-8-remov-icon1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 88px;
+    height: 88px;
+    object-fit: cover;
+}
+
+.on-gold-standard {
+    position: absolute;
+    top: 0;
+    left: 19px;
+}
+
+.flavour {
+    position: absolute;
+    top: calc(50% - 26px);
+    left: calc(50% - 26px);
+}
+
+.size1 {
+    top: calc(50% - 6px);
+}
+
+.chf-7395,
+.quantity1,
+.size1 {
+    position: absolute;
+    left: calc(50% - 26px);
+}
+
+.quantity1 {
+    top: calc(50% + 14px);
+}
+
+.chf-7395 {
+    bottom: 12px;
+}
+
+.double-rich-choco,
+.kg {
+    position: absolute;
+    font-size: var(--font-size-mini);
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.kg {
+    top: calc(50% - 10px);
+    left: calc(50% + 2px);
+}
+
+.double-rich-choco {
+    top: calc(50% - 29px);
+    right: -1px;
+}
+
+.gruppe-107 {
+    position: absolute;
+    top: calc(50% - 177px);
+    left: 30px;
+    width: 216px;
+    height: 118px;
+}
+
+.div4 {
+    position: absolute;
+    bottom: 2px;
+    left: calc(50% - 1.5px);
+    font-weight: 300;
+}
+
+.pfad-101-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.gruppe-109 {
+    position: absolute;
+    top: calc(50% - 106px);
+    left: calc(50% - 33px);
+    width: 17px;
+    height: 17px;
+    text-align: center;
+}
+
+.papierkorb-icon,
+.papierkorb-icon1 {
+    position: absolute;
+    top: calc(50% - 82px);
+    right: 34px;
+    width: 28px;
+    height: 28px;
+    object-fit: cover;
+}
+
+.papierkorb-icon1 {
+    top: calc(50% + 72px);
+}
+
+.gruppe-110 {
+    position: absolute;
+    top: calc(50% + 52px);
+    left: calc(50% - 38px);
+    width: 17px;
+    height: 17px;
+    text-align: center;
+}
+
+.shopping-cart {
+    position: relative;
+    background-color: var(--color-white);
+    width: 396px;
+    height: 508px;
+    max-width: 90%;
+    max-height: 90%;
+    overflow: auto;
+    text-align: left;
+    font-size: var(--font-size-3xs);
+    color: var(--color-black);
+    font-family: var(--font-futura);
+}
