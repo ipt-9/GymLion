@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=OCR+A:wght@400&display=swap">
+  <link rel="stylesheet" href="style.css">
+</head>
+<header style="margin-top: 3%;">
+    <nav>
+        <div>
+          <img src="logo.png" alt="Logo class" class="logo">
+        </div>
+    
+        <ul class="nav-links">
+          <li style="margin-right: 15%;"><a href="#">SHOP</a></li>
+          <li style="margin-left: 15%;"><a href="#">TRACKER</a></li>
+        </ul>
+    
+        <div class="search-bar">
+            <img src="search.png" alt="search" class="search">
+          <input type="text" placeholder="search" data-np-intersection-state="visible">
+        </div>
+    
+        <img src="account.png" alt="Account" class="account">
+        <img src="cart.png" alt="Cart" class="cart">
+      </nav>
+</header>
+<body>
+    <div class="white-box">
+      <div class="image-container">
+        <img src="ad-1.png" alt="placeholder" id="image">
+        <button class="image-button-left" onclick="changeToFirstImage()">
+          <img src="left-arrow.png" alt="Previous">
+        </button>
+        <button class="image-button-right" onclick="changeToSecondImage()">
+          <img src="right-arrow.png" alt="Next">
+        </button>
+      </div>
+    </div>
+  
+    <script>
+      function changeToFirstImage() {
+        var image = document.getElementById("image");
+        image.classList.remove("slide-to-left");
+        void image.offsetWidth;
+        image.classList.add("slide-to-right");
+        setTimeout(function() {
+          image.src = "ad-1.png";
+          image.classList.remove("slide-to-right");
+        }, 300);
+      }
+  
+      function changeToSecondImage() {
+        var image = document.getElementById("image");
+        image.classList.remove("slide-to-right");
+        void image.offsetWidth;
+        image.classList.add("slide-to-left");
+        setTimeout(function() {
+          image.src = "ad-2.png";
+          image.classList.remove("slide-to-left");
+        }, 300);
+      }
+    </script>
+
+<h2 style="color: white; margin-left: 5%;">OFFICIAL PARTNER</h2>
+<div class="image-container-on">
+    <img src="ON-1.png" alt="Image 1">
+    <img src="ON-2.png" alt="Image 2">
+    <img src="ON-3.png" alt="Image 3">
+    <img src="ON-4.png" alt="Image 4">
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="container-select">
+    <div class="box">
+        <!-- Inhalt der ersten Box -->
+    </div>
+    <div class="box">
+        <!-- Inhalt der zweiten Box -->
+    </div>
+    <div class="box">
+        <!-- Inhalt der dritten Box -->
+    </div>
+</div>
+
+
+  </body>
+
+</html>
