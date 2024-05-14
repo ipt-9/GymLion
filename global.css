@@ -1,0 +1,51 @@
+body {
+
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  inset: 0;
+}
+
+:root {
+  /* fonts */
+  --font-futura: Futura;
+  --font-ocr-a: "OCR A";
+  --font-century-gothic: "Century Gothic";
+  --font-lato: Lato;
+  --font-bahnschrift: Bahnschrift;
+
+  /* font sizes */
+  --font-size-26xl: 45px;
+  --font-size-11xl: 30px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-19xl: 38px;
+  --font-size-21xl: 40px;
+  --font-size-71xl: 90px;
+  --font-size-31xl: 50px;
+  --font-size-3xs: 10px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-gray-100: #848484;
+  --color-gray-200: rgba(255, 255, 255, 0.35);
+  --color-dimgray-100: #707070;
+  --color-dimgray-200: #676767;
+  --color-gainsboro: #e3e3e3;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-20xl: 39px;
+  --br-47xl: 66px;
+  --br-3xl: 22px;
+}
+
+
+
