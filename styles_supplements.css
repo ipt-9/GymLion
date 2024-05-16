@@ -51,7 +51,7 @@ nav a {
     background-image: url('public/hero-background.jpg');
     background-size: cover;
     background-position: center;
-    height: 1000px;
+    height: 500px;
 }
 
 .hero-text {
