@@ -2,6 +2,7 @@ function getNutrition() {
     var food = document.getElementById("foodInput").value;
     var apiKey = "ac34c59b2a997870eff4326048397fb0";
 
+    // Verbindung mit der Edamam API
     var url = `https://api.edamam.com/api/nutrition-details?app_id=486f122c&app_key=${apiKey}`;
     var data = {
         ingr: [food]
@@ -17,6 +18,7 @@ function getNutrition() {
     .then(response => response.json())
     .then(data => {
 
+        // Erstellung einer Tabelle mit das gegeben Essen
         var table = "<table style='border-collapse: collapse; width: 100%;'>";
         table += "<tr><th style='border: 1px solid #ddd; padding: 8px;'>Nährstoff</th><th style='border: 1px solid #ddd; padding: 8px;'>Menge</th><th style='border: 1px solid #ddd; padding: 8px;'>Einheit</th></tr>";
 
@@ -44,6 +46,7 @@ function getNutrition() {
             table += "</tr>";
         });
 
+        
         table += "<tr id='moreNutrientsRow' style='display: none;'><td colspan='3' style='padding: 0;'><div id='moreNutrientsContent'>";
         for (var key in data.totalNutrients) {
             if (!nutrientsToShowFirst.includes(key)) {
@@ -68,6 +71,7 @@ function getNutrition() {
     });
 }
 
+// Button
 function toggleMoreNutrients() {
     var moreNutrientsRow = document.getElementById("moreNutrientsRow");
     var button = document.getElementById("toggleButton");
@@ -81,3 +85,4 @@ function toggleMoreNutrients() {
 }
 
 document.getElementById("analyzeButton").addEventListener("click", getNutrition);
+
