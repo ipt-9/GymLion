@@ -5,6 +5,16 @@ Navigationbar
   font-family: 'Futura';
   src: url('Futura Condensed Extra Bold.otf') format('opentype');
 }
+
+body {
+  background-color: black;
+}
+
+
+h2 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 nav {
     background-color: rgb(51, 51, 51);
     color: rgb(255, 255, 255);
@@ -39,6 +49,10 @@ li {
     font-size: 280%;
     font-family: futura;
     text-decoration: none;
+}
+
+.nav-links a:hover{
+  color: #707070;
 }
 
 .search-bar {
@@ -102,8 +116,14 @@ input[type="text"] {
     border: none;
     cursor: pointer;
     background-color: transparent;
-    width: 7%;
+    width: 2%;
     height: auto;
+    opacity: 50%;
+  }
+
+  .image-button-left:hover,
+  .image-button-right:hover {
+    opacity: 100%;
   }
   
   .image-button-left {
@@ -126,19 +146,36 @@ input[type="text"] {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: white;
+    padding: 2%;
+    opacity: 99%;
 }
 
 .image-container-on img {
-    width: 15%;
-    height: auto;
-    margin-left: 5%;
-    margin-right: 5%;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  margin-left: 5%;
+  margin-right: 5%;
 }
+
+.image-container-select {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image-container-select img {
+  width: 30%;
+  height: auto;
+}
+
+
 
 .divider {
     border: none;
     border-top: 2px solid white;
-    height: 2px; /* Füge die Höhe hinzu */
+    height: 2px;
     margin-top: 4%;
     margin-left: 5%;
     margin-right: 5%;
@@ -154,10 +191,49 @@ input[type="text"] {
 }
 
 .box {
-    width: 30%; /* Breite der Boxen */
-    height: 400px; /* Höhe der Boxen */
-    background-color: #707070; /* Hintergrundfarbe der Boxen */
+    width: 25%;
+    height: 400px;
+    background-color: #707070;
+    border-radius: 10px;
 }
+
+.circle-rectangle-container {
+  position: relative;
+  width: 100%;
+  height: 400px;
+}
+
+.rectangle {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  background-color: white;
+}
+
+.circle {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 25%; 
+  height: 100%;
+  background-color: white;
+  border-radius: 50%;
+}
+
+
+.rectangle-2 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  background-color: white;
+}
+
+
 
 
 
