@@ -11,30 +11,22 @@
     <div class="main">
         <h1>GYMLION</h1>
         <h3>Enter your register credentials</h3>
-        <form action="">
-            <label for="first">
-                  Username:
-              </label>
-            <input type="text" 
-                   id="first"
-                   name="first" 
-                   placeholder="Enter your Username" required>
-
-            <label for="password">
-                  Password:
-              </label>
-            <input type="password"
-                   id="password" 
-                   name="password" 
-                   placeholder="Enter your Password" required>
-
-            <div class="wrap">
-                <button type="submit"
-                        onclick="solve()">
-                    Register
-                </button>
-            </div>
+        <form id="signup-form">
+            <label for="signup-name">Firstname:</label>
+            <input type="text" id="signup-firstname" name="firstname" required>
+            <br>
+            <label for="signup-name">Lastname:</label>
+            <input type="text" id="signup-lastname" name="lastname" required>
+            <br>
+            <label for="signup-email">Email:</label>
+            <input type="email" id="signup-email" name="email" required>
+            <br>
+            <label for="signup-password">Password:</label>
+            <input type="password" id="signup-password" name="password" required>
+            <br>
+            <button type="submit">Signup</button>
         </form>
+        <script src="script.js"></script>
         <p>Already have an account? 
               <a href="index.html" 
                style="text-decoration: none;">
@@ -45,3 +37,4 @@
 </body>
 
 </html>
+ 
