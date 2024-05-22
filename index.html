@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=OCR+A:wght@400&display=swap">
+  <link rel="stylesheet" href="index-style.css">
+</head>
+<body>
+<header style="margin-top: 3%;">
+    <nav>
+        <div>
+          <img src="img-index/logo.png" alt="Logo class" class="logo">
+        </div>
+    
+        <ul class="nav-links">
+          <li style="margin-right: 15%;"><a href="#">SHOP</a></li>
+          <li style="margin-left: 15%;"><a href="#">TRACKER</a></li>
+        </ul>
+    
+        <div class="search-bar">
+            <img src="img-index/search.png" alt="search" class="search">
+          <input type="text" placeholder="search" data-np-intersection-state="visible">
+        </div>
+    
+        <img src="img-index/account.png" alt="Account" class="account">
+        <img src="img-index/cart.png" alt="Cart" class="cart">
+      </nav>
+</header>
+
+<div class="white-box">
+      <div class="image-container">
+        <img src="img-index/2-ad.png" alt="placeholder" id="image">
+        <button class="image-button-left" onclick="changeToFirstImage()">
+          <img src="img-index/arrow-ad.png" alt="Previous" style="transform: scaleX(-1); height: 50px; width: auto;">
+        </button>
+        <button class="image-button-right" onclick="changeToSecondImage()">
+          <img src="img-index/arrow-ad.png" alt="Next" style="height: 50px; width: auto;">
+        </button>
+      </div>
+    </div>
+  
+    <script>
+      function changeToFirstImage() {
+        var image = document.getElementById("image");
+        image.classList.remove("slide-to-left");
+        void image.offsetWidth;
+        image.classList.add("slide-to-right");
+        setTimeout(function() {
+          image.src = "img-index/2-ad.png";
+          image.classList.remove("slide-to-right");
+        }, 300);
+      }
+  
+      function changeToSecondImage() {
+        var image = document.getElementById("image");
+        image.classList.remove("slide-to-right");
+        void image.offsetWidth;
+        image.classList.add("slide-to-left");
+        setTimeout(function() {
+          image.src = "img-index/1-ad.png";
+          image.classList.remove("slide-to-left");
+        }, 300);
+      }
+    </script>
+
+<h2 style="color: white; margin-left: 5%;">OFFICIAL PARTNER</h2>
+<div class="image-container-on">
+  <div><img src="img-index/ON-1.png" alt="Image 1" style="border-right: solid black; padding-right: 38%;"></div>
+  <div><img src="img-index/ON-2.png" alt="Image 2" style="border-right: solid black; padding-right: 38%;"></div>
+    <div><img src="img-index/ON-3.png" alt="Image 3" style="border-right: solid black; padding-right: 38%;"></div>
+    <div><img src="img-index/ON-4.png" alt="Image 4"></div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="image-container-select">
+    <img src="img-index/women.png" alt="Women">
+    <img src="img-index/men.png" alt="Men">
+    <img src="img-index/supplements.png" alt="Supplements">
+  </div>
+
+<div class="divider"></div>
+
+
+<div class="gymlion-unleash" style="width: 100%; height: 250px; background-color: #707070; position: relative; display: flex; justify-content: center; align-items: center;">
+  <img src="img-index/Lion-logo-template-on-transparent-background-PNG.png" style="position: absolute; top: 50%; transform: translateY(-50%); left: 0; padding: 0%; height: 138%;">
+  <img src="img-index/simone-pellegrini-L3QG_OBluT0-unsplash-removebg-preview.png" style="position: absolute; top: 50%; transform: translateY(-50%); right: 0; padding: 0%; height: 100%;">
+    <p style="font-family: futura; color: white; margin: 0; font-size: 500%;">UNLEASH YOUR INNER LION</p>
+</div>
+</div>
+
+<div class="divider"></div>
+
+<div class="circle-rectangle-container">
+  <div class="rectangle"></div>
+  <div class="circle"></div>
+  <img src="img-index/Mask Group 1.png" alt="hanteln" style="width: auto; height: 100%; position: absolute; right: 0; top: 0; z-index: -1;">
+  <p style="position: absolute; left: 0; top: 0; padding: 20px; color: black; font-family: Arial, Helvetica, sans-serif; font-size: 150%;">
+    Welcome to Gymlion – where fitness is more than a goal,<br>
+    it's a shared journey. Our webshop not only opens the door<br>
+    to high-quality products. Here, we digitally connect macros, trackers<br>
+    and training plans, creating a platform where fitness enthusiasts<br>
+    like you can feel at home.<br>
+    <br>
+    Our vision extends beyond physical sculpting –<br>
+    we also strengthen the mind, together.
+  </p>
+</div>
+
+<div class="circle-rectangle-container">
+  <div class="rectangle-2"></div>
+  <div class="circle"></div>
+  <img src="img-index/Mask Group 2.png" alt="hanteln" style="width: auto; height: 100%; position: absolute; top: 0;   z-index: -1;">
+  <p style="position: absolute; right: 0; top: 0; padding: 20px; color: black; font-family: Arial, Helvetica, sans-serif; font-size: 150%;">
+    Every click, every purchase, and every training step is part of<br>
+    our inspiring journey. Like the majestic lion, we symbolize strength,<br>
+    determination, and the unwavering will to surpass boundaries.<br>
+    <br>
+  </p>
+  <p style="position: absolute; right: 0; top: 0; padding: 20px; color: black; font-family: Arial, Helvetica, sans-serif; margin-top: 10%; font-size: 150%; font-weight: 800 ;">Let's roar into the next level of fitness!</p>
+</div>
+
+<div style="width: 100%; height: 100px; background-color: black;"></div>
+
+<div style="width: 100%; height: 180px; background-color: white;"></div>
+
+<div style="width: 100%; height: 50px; background-color: black;"></div>
+
+</body>
+</html>
+
+
+
