@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="checkout-section">
+            <h1>CHECKOUT</h1>
+        </div>
+        <div class="content-section">
+            <div class="products-section">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>PRODUCTS</th>
+                            <th>AMOUNT</th>
+                            <th>PRICE</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <img src="https://via.placeholder.com/50" alt="ON GOLD STANDARD 100% WHEY">
+                                <span>ON GOLD STANDARD 100% WHEY<br>Flavour: DOUBLE RICH CHOCO<br>Size: 2 KG</span>
+                            </td>
+                            <td>1</td>
+                            <td>CHF 73.95</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="https://via.placeholder.com/50" alt="NIKE DRI-FIT ACTIVE TEE">
+                                <span>NIKE DRI-FIT ACTIVE TEE<br>Color: BLUE<br>Size: XL</span>
+                            </td>
+                            <td>1</td>
+                            <td>CHF 35.99</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="total-section">
+                    <span>Total incl. VAT</span>
+                    <span>CHF 109.90</span>
+                </div>
+                <div class="coupon-section">
+                    <label for="coupon-code">Coupon Code:</label>
+                    <input type="text" id="coupon-code" placeholder="GymLion20">
+                </div>
+            </div>
+            <div class="billing-section">
+                <h2>YOUR EMAIL</h2>
+                <input type="email" placeholder="email">
+                <h2>BILLING DETAILS</h2>
+                <input type="text" placeholder="Name">
+                <input type="text" placeholder="Surname">
+                <input type="text" placeholder="Address">
+                <input type="text" placeholder="ZIP Code">
+                <input type="text" placeholder="City">
+                <div class="payment-methods">
+                    <img src="https://via.placeholder.com/50" alt="Apple Pay">
+                    <img src="https://via.placeholder.com/50" alt="American Express">
+                    <img src="https://via.placeholder.com/50" alt="MasterCard">
+                    <img src="https://via.placeholder.com/50" alt="VISA">
+                    <img src="https://via.placeholder.com/50" alt="Google Pay">
+                    <img src="https://via.placeholder.com/50" alt="Twint">
+                </div>
+                <button class="buy-button">Buy</button>
+                <a href="#" class="help-link">HELP?</a>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
