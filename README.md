@@ -1,10 +1,20 @@
+# GymLion
 
-  # Start
+[GymLion Website](https://gymlion-bmsd21a.bbzwinf.ch/)
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+## Repositories
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+- [Frontend Repository](https://github.com/ipt-9/GymLion)
+- [Backend Repository](https://github.com/ipt-9/GymLion-Backend)
+
+## Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,)](https://skillicons.dev)
+
+## GymLion Team
+
+- Dines Nimalthas [Github](https://github.com/Dines-Nimalthas)
+- Gianmarco Wyss [Github](https://github.com/Giani-Wyss)
+- Luca Bisanti [GitHub](https://github.com/BlucaBBZW)
+- Kevin Weder [GitHub](https://github.com/KevinWe6)
+- Yves Wegner [GitHub](https://github.com/YvesWegner)
